@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tarannum Al Akida</h1>
 
-<img width="300" height="234" alt="image" src="https://github.com/user-attachments/assets/7173f24c-6d03-4946-a62d-e7a912654e51" />
+<img width="172" height="187" alt="image" src="https://github.com/user-attachments/assets/319c3794-ad7c-4220-a214-e305fa57d062" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarannum-al-akida&label=Profile%20views&color=0e75b6&style=flat" alt="tarannum-al-akida" /> </p>
 
