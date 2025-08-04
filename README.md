@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Tarannum Al Akida</h1>
+
+<h1 align="center">Welcome 👋, I'm Tarannum Al Akida</h1>
+<h3 align=“center”> 3rd Year CSE Student in BRAC University </h3>
 
 <img width="172" height="187" alt="image" src="https://github.com/user-attachments/assets/319c3794-ad7c-4220-a214-e305fa57d062" />
 
