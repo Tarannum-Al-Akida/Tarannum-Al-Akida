@@ -12,7 +12,9 @@
 <a href="https://www.linkedin.com/in/tarannum-al-akida-930521351?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarannum al akida" height="30" width="40" />
 </a>
-<a href="https://fb.com/tarannum al akida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarannum al akida" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tarannum.akida.lisi1/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarannum al akida" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
